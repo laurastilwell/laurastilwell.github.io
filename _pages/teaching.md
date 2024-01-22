@@ -18,7 +18,7 @@ Teaching Assistant for Lisa Gennetian, Spring 2022
 
 ##### Bass Connections, NC Integrated Care for Kids Model (Undergraduate Level) 
 Duke University, Margolis Center for Health Policy <br>
-Teaching Assistant for Gillian Sanders Schmidler, Rushina Cholera, and Michelle Franklin, Academic Year 2021-22
+Teaching Assistant for Gillian Schmidler, Rushina Cholera, and Michelle Franklin, Academic Year 2021-22
 
 
 ### **Mentorship** 
