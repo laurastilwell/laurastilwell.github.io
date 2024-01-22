@@ -6,15 +6,13 @@ description:
 nav: true
 nav_order: 6
 ---
-## Teaching 
+<h2> Teaching </h2>
 
 <h4> PubPol 303: Microeconomics Tools for Public Policy Analysis (Undergraduate Level) </h4>
-
 Duke University, Sanford School of Public Policy
 Head Teaching Assistant for Lisa Gennetian, Spring 2022, 23
 
 <h4> PubPol 590S: Microeconomics Tools for Public Policy Analysis (Master's Level) </h4>
-
 Duke University, Sanford School of Public Policy
 Teaching Assistant for Lisa Gennetian, Spring 2022
 
