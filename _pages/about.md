@@ -5,8 +5,8 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: LStilwell_Headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
