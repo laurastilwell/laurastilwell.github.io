@@ -1,11 +1,9 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
+permalink: /assets/pdf/LStilwell_CV_2024.pdf
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: LStilwell_CV_2024.pdf
 description: 
-toc:
-  sidebar: left
+
 ---
