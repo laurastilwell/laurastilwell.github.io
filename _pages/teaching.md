@@ -17,7 +17,7 @@ Duke University, Sanford School of Public Policy
 Teaching Assistant for Lisa Gennetian, Spring 2022
 
 <h4> Bass Connections, NC Integrated Care for Kids Model (Undergraduate Level) </h4>
-Duke University 
+Duke University, Margolis Center for Health Policy 
 Teaching Assistant for Gillian Sanders Schmidler, Rushina Cholera, and Michelle Franklin, Academic Year 2021-22
 
 
