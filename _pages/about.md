@@ -24,9 +24,7 @@ My research straddles the areas of public health and social policy. I examine ho
 As MD/Phd situated centrally in population health, with a specific lens on economic resources during children’s sensitive earliest years of development (starting at birth/prenatally?).  focused on two angles:  risk minimization of really bad health outcomes like child maltreatment; and optimization of investments that support children’s thriving and flourishing.  Collectively about social determinants of health, and children’s early health trajectories.
 
 
-My work has been published in Academic Pediatrics, Child Maltreatment, 
+My work has been published in *Academic Pediatrics*, *The Journal of Pediatrics*, *Child Maltreatment*, and *Child Abuse & Neglect*. I have forthcoming work in *Social Service Review* and the *Journal of Public Policy Analysis and Management.* 
 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

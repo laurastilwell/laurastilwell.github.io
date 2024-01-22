@@ -10,8 +10,14 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+{% bibliography/papers.bib %}
 
 </div>
 
-# 
+# Policy briefs & commentaries 
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography/policybriefs.bib %}
+
+</div>
