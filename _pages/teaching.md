@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-### ***Teaching*** 
+### **Teaching** 
 
 ##### PubPol 303: Microeconomics Tools for Public Policy Analysis (Undergraduate Level)
 Duke University, Sanford School of Public Policy <br>
@@ -21,7 +21,7 @@ Duke University, Margolis Center for Health Policy <br>
 Teaching Assistant for Gillian Sanders Schmidler, Rushina Cholera, and Michelle Franklin, Academic Year 2021-22
 
 
-### ***Mentorship*** 
+### **Mentorship** 
 
 ##### [Graduate Applications International Network (GAIN) Mentorship Program](https://gain-network.net/mentors) 
 ###### *(June 2023 - present)*
@@ -37,6 +37,6 @@ Participated in mentorship program between Duke University medical students and 
 ###### *(Sept 2019 - Dec 2021)*
 Served on the leadership team and as a MS3+ mentor for the [Holton Clinic Leadership Elective](https://medschool.duke.edu/blog/bursting-bubble), which provides first-year medical students with early clinical exposure under the guidance of an upper-year student and clinical provider. I supervised first-year students twice monthly in clinic. I also organized and led monthly teaching sessions on common clinical presentations and health disparities.  
 
-#### Mentorship for students in interested in applying to MD/PhD in Social Sciences 
-
+##### Mentorship for students in interested in applying to MD/PhD in Social Sciences 
+Excited by the ways in which my clinical training has allowed me to make distinct contributions to my research teams and provide unique feedback to my colleagues, I aim to encourage more students to pursue non-traditional MD/PhD paths. I have offered guidance and feedback to a number of undergraduates from Duke and other institutions interested in applying for MD/PhDs in the social sciences. If you are interested in an MD/PhD in the social sciences, please feel free to reach out. 
 
