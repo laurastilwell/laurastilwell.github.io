@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography/papers.bib %}
+{% bibliography -f papers %}
 
 </div>
 
@@ -18,6 +18,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography/policybriefs.bib %}
+{% bibliography -f policybriefs %}
 
 </div>
