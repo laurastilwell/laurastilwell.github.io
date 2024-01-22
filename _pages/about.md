@@ -21,9 +21,6 @@ I am an MD/PhD in Public Policy at Duke University, [Sanford School of Public Po
 
 My research straddles the areas of public health and social policy. I examine how policies and interventions impact children's and families' well-being, especially low-income families and vulnerable pediatric patient populations.  
 
-As MD/Phd situated centrally in population health, with a specific lens on economic resources during children’s sensitive earliest years of development (starting at birth/prenatally?).  focused on two angles:  risk minimization of really bad health outcomes like child maltreatment; and optimization of investments that support children’s thriving and flourishing.  Collectively about social determinants of health, and children’s early health trajectories.
-
-
 My work has been published in *Academic Pediatrics*, *The Journal of Pediatrics*, *Child Maltreatment*, and *Child Abuse & Neglect*. I have forthcoming work in *Social Service Review* and the *Journal of Public Policy Analysis and Management.* 
 
 
