@@ -12,9 +12,9 @@ nav_order: 6
 Duke University, Sanford School of Public Policy <br>
 Head Teaching Assistant for Lisa Gennetian, Spring 2022, 23
 
-##### PubPol 590S: Microeconomics Tools for Public Policy Analysis (Master's Level)
+##### PubPol 590S: Poverty, Policy & Pandemics (Master's Level)
 Duke University, Sanford School of Public Policy <br>
-Teaching Assistant for Lisa Gennetian, Spring 2022
+Co-Instructor/Teaching Assistant for Lisa Gennetian, Spring 2022
 
 ##### Bass Connections, NC Integrated Care for Kids Model (Undergraduate Level) 
 Duke University, Margolis Center for Health Policy <br>
