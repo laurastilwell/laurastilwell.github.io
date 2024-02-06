@@ -8,7 +8,7 @@ nav_order: 6
 ---
 ### **Teaching** 
 
-##### HLTHMGMT 710: Health Institutions, Systems and Policy (Master's Level)
+##### HLTHMGMT 710: Health Institutions, Systems & Policy (Master's Level)
 Duke University, Fuqua School of Business
 Teaching Assistant for Peter Ubel, Summer 2023 
 
