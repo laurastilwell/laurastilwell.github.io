@@ -8,13 +8,17 @@ nav_order: 6
 ---
 ### **Teaching** 
 
-##### PubPol 303: Microeconomics Tools for Public Policy Analysis (Undergraduate Level)
-Duke University, Sanford School of Public Policy <br>
-Head Teaching Assistant for Lisa Gennetian, Spring 2022, 23
+##### HLTHMGMT 710: Health Institutions, Systems and Policy (Master's Level)
+Duke University, Fuqua School of Business
+Teaching Assistant for Peter Ubel, Summer 2023 
 
 ##### PubPol 590S: Poverty, Policy & Pandemics (Master's Level)
 Duke University, Sanford School of Public Policy <br>
 Co-Instructor/Teaching Assistant for Lisa Gennetian, Spring 2022
+
+##### PubPol 303: Microeconomics Tools for Public Policy Analysis (Undergraduate Level)
+Duke University, Sanford School of Public Policy <br>
+Head Teaching Assistant for Lisa Gennetian, Spring 2022, 23
 
 ##### Bass Connections, NC Integrated Care for Kids Model (Undergraduate Level) 
 Duke University, Margolis Center for Health Policy <br>
