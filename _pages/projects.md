@@ -12,7 +12,7 @@ horizontal: false
 <h4>The Impact of Monthly Unconditional Cash on Food Security, Spending, and Consumption: Three Year Follow-Up Findings from the Baby's First Years Study</h4>
 *with Matthew Maury, Hema Shah, and the the [Baby's First Years](https://www.babysfirstyears.com/) study PIs: Lisa Gennetian, Katherine Magnuson, Kimberly Noble, Greg Duncan, Nathan Fox, Sarah Halpern-Meekin, and Hirokazu Yoshikawa*
 
-*Available at SSRN: [https://ssrn.com/abstract=4781670](https://ssrn.com/abstract=4781670)* 
+Available at SSRN: [https://ssrn.com/abstract=4781670](https://ssrn.com/abstract=4781670)
 
 <h4>Causal Impact of Poverty Reduction on Housing Conditions of Low-Income, U.S. Families: Evidence from Baby's First Years </h4>
 *This is joint work with the [Baby's First Years](https://www.babysfirstyears.com/) study PIs: Lisa Gennetian, Katherine Magnuson, Kimberly Noble, Greg Duncan, Nathan Fox, Sarah Halpern-Meekin, and Hirokazu Yoshikawa*
