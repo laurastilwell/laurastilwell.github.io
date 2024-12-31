@@ -26,7 +26,7 @@ Development of the NIH ([F30HD108866](https://reporter.nih.gov/search/Pn6pRkq-Ak
 
 Prior to graduate school, I worked as a research assistant at the [Jameel Poverty Action Lab](https://www.povertyactionlab.org/) in Cambridge, MA, primarily contributing to projects in India. I graduated from MIT in 2014 with a BS in Economics. 
 
-I enjoy mentoring students who are interested in combining a social science degree with medicine. I have offered guidance and feedback to several students applying for MD/PhDs in the social sciences. If you are interested in an MD/PhD in the social sciences, please feel free to reach out if I can be of assistance. 
+I enjoy mentoring students, and have offered guidance and feedback to several students applying for MD/PhDs in the social sciences. If you are applying or interested in learning more about an MD/PhD in the social sciences, please feel free to reach out if I can be of any assistance. 
 
 
 
