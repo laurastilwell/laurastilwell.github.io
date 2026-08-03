@@ -28,7 +28,7 @@ Teaching Assistant for Gillian Schmidler, Rushina Cholera, and Michelle Franklin
 ### **Mentorship** 
 
 ##### [Graduate Applications International Network (GAIN) Mentorship Program](https://gain-network.net/mentors) 
-###### *(June 2023 - present)*
+###### *(June 2023 - June 2025)*
 Mentoring student from Ghana applying to Masters program in Economics in the US, Canada, and Switzerland. Provide support editing student's personal statement and CV and deciding which programs to apply to. 
 
 
