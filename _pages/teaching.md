@@ -34,7 +34,7 @@ Mentoring student from Ghana applying to Masters program in Economics in the US,
 
 ##### Mentorship Program with University of Global Health Equity in Kigali, Rwanda 
 ###### *(Feb 2021 - June 2022)*
-Participated in mentorship program between Duke University medical students and the new [University of Global Health Equity (UGHE) Bachelor of Medicine/Bachelor of Surgery program](https://ughe.org/academics/bachelor-medicine-bachelor-surgery) in Rwanda. I met monthly with my UGHE mentee to provide advice, tips, and moral support, a role typically filled by upper-year students which UGHE lacked at the time.  
+Participated in mentorship program between Duke University medical students and the University of Global Health Equity (UGHE) Bachelor of Medicine/Bachelor of Surgery program in Rwanda. I met monthly with my UGHE mentee to provide advice, tips, and moral support, a role typically filled by upper-year students which UGHE lacked at the time.  
 
 
 ##### Holton Wellness Clinic Student Opportunity, Duke School of Medicine 
